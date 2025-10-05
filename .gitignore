@@ -1,0 +1,25 @@
+# R and project caches
+.Rhistory
+.Rproj.user/
+.RData
+.Ruserdata
+.Rprofile
+
+# renv cache
+renv/
+renv.lock
+
+# Local data and credentials
+data/
+config/secrets.yml
+
+# Outputs
+outputs/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/

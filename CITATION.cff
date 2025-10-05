@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the following paper and this code."
+title: "Oral Disease ↔ ASCVD Metabolomics Pipeline (JDR Clinical & Translational Research)"
+type: software
+authors:
+  - family-names: Duan
+    given-names: Jiaxuan
+  - family-names: Bezamat
+    given-names: Mariana
+  - family-names: Saeed
+    given-names: Ammar
+  - family-names: McKennan
+    given-names: Chris
+repository-code: "https://github.com/yourname/jdr-oral-ascvd-metabolomics-pipeline"
+keywords: [R, metabolomics, ASCVD, oral disease, gingivitis, periodontitis, DMFT, CIMT, CAC, reproducibility, pipeline]
+license: MIT
+preferred-citation:
+  type: article
+  title: "Oral Disease and Atherosclerosis May Be Associated with Overlapping Metabolic Pathways"
+  authors:
+    - family-names: Bezamat
+      given-names: Mariana
+    - family-names: Saeed
+      given-names: Ammar
+    - family-names: McKennan
+      given-names: Chris
+    - family-names: Duan
+      given-names: Jiaxuan
+  journal: "JDR Clinical & Translational Research"
+  doi: "10.1177/23800844241280383"
+  year: 2025
+  volume: "10"
+  issue: "3"
+  start: "315"
+  end: "319"

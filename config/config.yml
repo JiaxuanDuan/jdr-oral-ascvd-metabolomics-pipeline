@@ -1,0 +1,18 @@
+data_dir: "data"
+outputs_dir: "outputs"
+files:
+  metabolon_rdata: "Metabolon_OrigScale.RData"
+  metabolomics_index: "Metabolomics_Index.RData"
+  dental_events_xlsx: "Bezamat_DAR_20220301.xlsx"
+  form1: "FORM1_SCREENING.csv"
+  form4: "FORM4_DEMO_MEDHX.csv"
+  form5: "FORM5_PE_VISITS.csv"
+  form9: "FORM9_VAP_BASE.csv"
+  form_markers: "FORMXX_BASE_MARKERS.csv"
+  cimt_cac_csv: "CIMT_CAC.csv"
+analysis:
+  log_transform: true
+  missing_rate_threshold: 0.5
+  imputation: "mean"
+  latent_factors_k: 20
+  fdr_level: 0.05
