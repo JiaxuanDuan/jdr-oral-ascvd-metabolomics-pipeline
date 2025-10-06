@@ -6,7 +6,7 @@
 > **Oral Disease and Atherosclerosis May Be Associated with Overlapping Metabolic Pathways.**  
 > *JDR Clinical & Translational Research.* 2025;10(3):315–319. DOI: 10.1177/23800844241280383
 
-This repository provides a **clean, modular R workflow** to reproduce the data-processing and modeling logic used in the study, with safely **no participant-level data** included. It is meant as a **professional, hiring-manager–friendly** pipeline that demonstrates engineering discipline (structure, naming, documentation) and scientific reproducibility.
+This repository provides a **clean, modular R workflow** to reproduce the data-processing and modeling logic used in the study, with safely **no participant-level data** included. It is meant as a **professional, well-documented** research pipeline that demonstrates engineering discipline (structure, naming, documentation) and scientific reproducibility.
 
 > **Note:** This repository mirrors the analysis *logic* and structure only. It ships **no data**. See `data/README.md` and `config/config.yml` for how to wire local paths.
 
